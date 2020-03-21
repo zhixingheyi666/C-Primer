@@ -18,5 +18,40 @@
     <ClCompile Include="C++Primer.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Luogu.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="chapter_1_6.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="chapter_7.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="glance_of_II_III_IV.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Sales_item.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Sales_data.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Luogu.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Chapter_1_6.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Chapter_7.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Person_i.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="glance_of_II_III_IV.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

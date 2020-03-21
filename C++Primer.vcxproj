@@ -152,6 +152,19 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="C++Primer.cpp" />
+    <ClCompile Include="chapter_1_6.cpp" />
+    <ClCompile Include="chapter_7.cpp" />
+    <ClCompile Include="glance_of_II_III_IV.cpp" />
+    <ClCompile Include="Luogu.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Chapter_1_6.h" />
+    <ClInclude Include="Chapter_7.h" />
+    <ClInclude Include="glance_of_II_III_IV.h" />
+    <ClInclude Include="Luogu.h" />
+    <ClInclude Include="Person_i.h" />
+    <ClInclude Include="Sales_data.h" />
+    <ClInclude Include="Sales_item.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
